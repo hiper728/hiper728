@@ -24,6 +24,16 @@ Reliability  : 99.98% Service Uptime Across Production Nodes
 
 ---
 
+### 📦 Featured Open-Source Repositories
+
+| Repository | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| 🚀 **[`hiper728/async-flow-engine`](https://github.com/hiper728/async-flow-engine)** | Minimalist asynchronous DAG task orchestrator with dependency sorting and retry policies | `Python 3.13` `Asyncio` `pytest` | [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hiper728/async-flow-engine/blob/main/LICENSE) |
+| 🛡️ **[`hiper728/stealth-sentinel`](https://github.com/hiper728/stealth-sentinel)** | Resilient web automation & DOM differential change monitor toolkit | `Playwright` `CDP` `Python` | [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hiper728/stealth-sentinel/blob/main/LICENSE) |
+| 📊 **[`hiper728/fast-duck-analytics`](https://github.com/hiper728/fast-duck-analytics)** | Sub-second analytical SQL engine querying Parquet, CSV, and SQLite datasets | `DuckDB` `SQL` `Python` | [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/hiper728/fast-duck-analytics/blob/main/LICENSE) |
+
+---
+
 ### 🏛️ Engineering Philosophy & Specializations
 
 - **Asynchronous Concurrency**: Architecting event-driven microservices using Python 3.13 (`asyncio`, `uvloop`), ensuring high throughput with bounded resource consumption.
@@ -39,17 +49,9 @@ Reliability  : 99.98% Service Uptime Across Production Nodes
 | :--- | :--- |
 | **Languages** | Python 3.13 (CPython Internals, Asyncio), SQL, Bash/Shell, Go, TypeScript |
 | **Backends & APIs** | FastAPI, Pydantic v2, SQLAlchemy, aiogram 3.x, discord.py |
-| **Automation** | Playwright, CDP, BeautifulSoup4, HTTP Session Persistence |
+| **Automation** | Playwright, CDP, DOM Diffing, HTTP Session Persistence |
 | **Databases** | PostgreSQL, DuckDB, SQLite (WAL mode), Redis |
 | **DevOps & Cloud** | Linux (Debian, Ubuntu), Docker, Docker Compose, Nginx, Systemd, GitHub Actions |
-
----
-
-### 🚀 Production System Highlights
-
-1. **[OmniBot Orchestration Engine](https://hiper728.github.io/#projects)** &mdash; Distributed messaging framework routing 20+ specialized workers with token-bucket rate limiting and zero transaction loss.
-2. **[Sentinel Web Monitor](https://hiper728.github.io/#projects)** &mdash; Headless browser automation monitoring 50,000+ endpoints daily with cryptographic content hashing.
-3. **[DuckDB Analytics Pipeline](https://hiper728.github.io/#projects)** &mdash; Sub-second analytical SQL aggregation over multi-gigabyte Parquet/CSV files.
 
 ---
 
